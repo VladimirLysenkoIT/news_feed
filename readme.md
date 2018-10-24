@@ -1,0 +1,1 @@
+A simple website to practice with SQLite and AJAX.
